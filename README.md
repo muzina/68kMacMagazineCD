@@ -1,0 +1,2 @@
+# 68kMacMagazineCD
+昔のMacintosh雑誌の付録CD-ROMに関する情報です
